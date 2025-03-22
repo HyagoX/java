@@ -16,5 +16,7 @@ public class SomaNumeros {
         int soma = numero1 + numero2 + numero3;
         double media = (double) soma / 3;
         System.out.println("A media dos numero e: " + media);
+
+        
     }
 }
